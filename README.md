@@ -1,7 +1,7 @@
 ### Hi there, I'm Sourabh Mahato 👋
 A **Full Stack Web & Mobile Developer** from India 🇮🇳
 
-- 👨‍💻 I work with **React, Node.js, JavaScript, TypeScript**
+- 👨‍💻 I work with **ReactJS, NextJS, NodeJS, JavaScript, TypeScript**
 - 🚀 4 years of front-end engineering experience
 - 💼 Preparing for **SDE2 Frontend** interviews
 - 📚 I believe in continuous learning and building
