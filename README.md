@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi there, I'm Sourabh Mahato 👋
 
-<!--
-**sourabhmahato/sourabhmahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Full Stack Web & Mobile Developer** from India 🇮🇳
 
-Here are some ideas to get you started:
+- 👨‍💻 I work with **React, Node.js, JavaScript, TypeScript**
+- 🚀 4 years of front-end engineering experience
+- 💼 Preparing for **Microsoft SDE2 Frontend** interviews
+- 📚 I believe in continuous learning and building
+- 📫 Reach me: [LinkedIn](your-linkedin-link) | [Email](your-email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+
+![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhmahato&show_icons=true&theme=radical)
+
+---
+
+### 🤝🏻 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+⭐️ From [sourabhmahato](https://github.com/sourabhmahato)
