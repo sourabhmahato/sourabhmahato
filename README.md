@@ -4,7 +4,7 @@ A **Full Stack Web & Mobile Developer** from India 🇮🇳
 
 - 👨‍💻 I work with **React, Node.js, JavaScript, TypeScript**
 - 🚀 4 years of front-end engineering experience
-- 💼 Preparing for **Microsoft SDE2 Frontend** interviews
+- 💼 Preparing for **SDE2 Frontend** interviews
 - 📚 I believe in continuous learning and building
 - 📫 Reach me: [LinkedIn](your-linkedin-link) | [Email](your-email@example.com)
 
