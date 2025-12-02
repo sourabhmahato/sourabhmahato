@@ -32,9 +32,9 @@ A **Full Stack Web & Mobile Developer** from India 🇮🇳
 
 ### 🤝🏻 Connect with Me:
 
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](your-x-profile-link)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sourabhtwts)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhmahato/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sourabhmahato5701@gmail.com)
 
 ---
 
