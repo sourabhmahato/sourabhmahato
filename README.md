@@ -2,7 +2,7 @@
 A **Full Stack Web & Mobile Developer** from India 🇮🇳
 
 - 👨‍💻 I work with **ReactJS, NextJS, NodeJS, JavaScript, TypeScript**
-- 🚀 4 years of front-end engineering experience
+- 🚀 5 years of front-end engineering experience
 - 💼 Preparing for **SDE2 Frontend** interviews
 - 📚 I believe in continuous learning and building
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sourabhmahato/) | [Email](sourabhmahato5701@gmail.com)
