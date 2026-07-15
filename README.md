@@ -1,4 +1,4 @@
-# Hi, I'm Sourabh 👋
+# Hi, I'm Sourabh Mahato 👋
 
 Senior Frontend Engineer (5+ yrs) building performant, accessible web apps with **React, Next.js (App Router / RSC), and TypeScript**.
 
@@ -39,7 +39,7 @@ Senior Frontend Engineer (5+ yrs) building performant, accessible web apps with 
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhmahato&theme=radical" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmahato&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmahato&layout=compact&theme=radical&langs_count=8&hide=html,css)
 
 ---
 
