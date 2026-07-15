@@ -1,4 +1,4 @@
-# Hi, I'm Sourabh Mahato 👋
+# Hi, I'm Sourabh 👋
 
 Senior Frontend Engineer (5+ yrs) building performant, accessible web apps with **React, Next.js (App Router / RSC), and TypeScript**.
 
